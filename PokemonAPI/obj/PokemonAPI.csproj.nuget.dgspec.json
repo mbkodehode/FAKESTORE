@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\PokemonAPI.csproj": {}
+    "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\PokemonAPI\\PokemonAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\PokemonAPI.csproj": {
+    "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\PokemonAPI\\PokemonAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\PokemonAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\PokemonAPI\\PokemonAPI.csproj",
         "projectName": "PokemonAPI",
-        "projectPath": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\PokemonAPI.csproj",
+        "projectPath": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\PokemonAPI\\PokemonAPI.csproj",
         "packagesPath": "C:\\Users\\Instruktor.P-02464\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\",
+        "outputPath": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\PokemonAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Instruktor.P-02464\\AppData\\Roaming\\NuGet\\NuGet.Config"
