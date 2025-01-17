@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakeStoreA", "FakeStoreA\FakeStoreA.csproj", "{3AE4830F-B456-40FD-968E-5285F2CAE8F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonAPI", "PokemonAPI\PokemonAPI.csproj", "{3BEBC83F-24E4-486B-BD89-E88B08EE8F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{3AE4830F-B456-40FD-968E-5285F2CAE8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE4830F-B456-40FD-968E-5285F2CAE8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE4830F-B456-40FD-968E-5285F2CAE8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEBC83F-24E4-486B-BD89-E88B08EE8F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEBC83F-24E4-486B-BD89-E88B08EE8F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEBC83F-24E4-486B-BD89-E88B08EE8F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEBC83F-24E4-486B-BD89-E88B08EE8F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

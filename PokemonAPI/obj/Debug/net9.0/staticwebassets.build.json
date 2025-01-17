@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "TPPvEs4bLcHe1FMWwcnW+F9GcHw2bnu0e/RitfpvWw4=",
+  "Source": "PokemonAPI",
+  "BasePath": "_content/PokemonAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PokemonAPI\\wwwroot",
+      "Source": "PokemonAPI",
+      "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\",
+      "BasePath": "_content/PokemonAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\11lo8jue7g-p8886fgybt.gz",
+      "SourceId": "PokemonAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PokemonAPI",
+      "RelativePath": "index#[.{fingerprint=p8886fgybt}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zd5y1gtfok",
+      "Integrity": "OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\bev17mpnna-8de01u61dy.gz",
+      "SourceId": "PokemonAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/PokemonAPI",
+      "RelativePath": "table#[.{fingerprint=8de01u61dy}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "088zdkjwyx",
+      "Integrity": "oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html"
+    },
+    {
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html",
+      "SourceId": "PokemonAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\",
+      "BasePath": "_content/PokemonAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p8886fgybt",
+      "Integrity": "ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html",
+      "SourceId": "PokemonAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\",
+      "BasePath": "_content/PokemonAPI",
+      "RelativePath": "table#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8de01u61dy",
+      "Integrity": "vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\table.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\11lo8jue7g-p8886fgybt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001068376068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\11lo8jue7g-p8886fgybt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI="
+        }
+      ]
+    },
+    {
+      "Route": "index.p8886fgybt.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\11lo8jue7g-p8886fgybt.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001068376068"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8886fgybt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="
+        }
+      ]
+    },
+    {
+      "Route": "index.p8886fgybt.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2388"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8886fgybt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="
+        }
+      ]
+    },
+    {
+      "Route": "index.p8886fgybt.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\11lo8jue7g-p8886fgybt.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "935"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p8886fgybt"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OT8hRCDNP/rvGPIW5xYAcWaDoGfAwoF+Ewp07NZsPGI="
+        }
+      ]
+    },
+    {
+      "Route": "table.8de01u61dy.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\bev17mpnna-8de01u61dy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000746268657"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1339"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8de01u61dy"
+        },
+        {
+          "Name": "label",
+          "Value": "table.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "table.8de01u61dy.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8de01u61dy"
+        },
+        {
+          "Name": "label",
+          "Value": "table.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "table.8de01u61dy.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\bev17mpnna-8de01u61dy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8de01u61dy"
+        },
+        {
+          "Name": "label",
+          "Value": "table.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg="
+        }
+      ]
+    },
+    {
+      "Route": "table.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\bev17mpnna-8de01u61dy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000746268657"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1339"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "table.html",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4024"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMFmcKOP+fUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="
+        }
+      ]
+    },
+    {
+      "Route": "table.html.gz",
+      "AssetFile": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\obj\\Debug\\net9.0\\compressed\\bev17mpnna-8de01u61dy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1339"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Jan 2025 12:39:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oL6YPuyclD7Rx497okbrydjMSneeF24ahPKxinW1dWg="
+        }
+      ]
+    }
+  ]
+}

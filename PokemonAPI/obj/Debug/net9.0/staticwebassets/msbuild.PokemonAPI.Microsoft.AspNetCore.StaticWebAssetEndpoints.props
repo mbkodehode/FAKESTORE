@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/PokemonAPI/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2388"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 12:39:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokemonAPI/index.p8886fgybt.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p8886fgybt"},{"Name":"integrity","Value":"sha256-ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU="},{"Name":"label","Value":"_content/PokemonAPI/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2388"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022ub1jjMjnqtsynAVTP6VCbLKG52YigZCBS2cEPHAmOaU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 12:39:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokemonAPI/table.8de01u61dy.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\table.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8de01u61dy"},{"Name":"integrity","Value":"sha256-vMFmcKOP\u002BfUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="},{"Name":"label","Value":"_content/PokemonAPI/table.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4024"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vMFmcKOP\u002BfUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 12:39:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PokemonAPI/table.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\table.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vMFmcKOP\u002BfUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4024"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022vMFmcKOP\u002BfUsuN1d5YOLj3v6ZcfqnesVNAR20qgxKrQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 16 Jan 2025 12:39:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

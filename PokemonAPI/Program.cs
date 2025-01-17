@@ -43,7 +43,7 @@ app.MapGet("/", content =>
 });
 
 //company page get 
-app.MapGet("/staff", content =>
+app.MapGet("/pokemon", content =>
 {
     content.Response.Redirect("/table.html");
     return Task.CompletedTask;
@@ -62,7 +62,8 @@ app.MapPost("/staff", async (IHttpClientFactory httpClientFactory, [FromBody] in
         var client = httpClientFactory.CreateClient();
         //since we use async we use now await 
 
-        var response = await client.GetStringAsync($"https://randomuser.me/api/?results={personNumber}");
+        object endpoint = 1;
+        var response = await client.GetStringAsync($"https://pokeapi.co/api/v2/{endpoint}/");
         // one way to return json 
         return Results.Content(response, "application/json");
     }

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Instruktor.P-02464\\Documents\\Kurs 1811\\Uke6\\FromDevrim\\FAKESTORE\\pokemonAPI\\wwwroot\\table.html",
+      "PackagePath": "staticwebassets\\table.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PokemonAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.PokemonAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.PokemonAPI.props",
+      "PackagePath": "build\\PokemonAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.PokemonAPI.props",
+      "PackagePath": "buildMultiTargeting\\PokemonAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.PokemonAPI.props",
+      "PackagePath": "buildTransitive\\PokemonAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
